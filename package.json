@@ -20,7 +20,7 @@
     "open": "7",
     "p-event": "4.2.0",
     "p-wait-for": "3.2.0",
-    "pug": "^3.0.2",
+    "pug": "^3.0.3",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
